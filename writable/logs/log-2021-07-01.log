@@ -1,0 +1,7 @@
+ERROR - 2021-07-01 00:16:02 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+ERROR - 2021-07-01 00:16:42 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+ERROR - 2021-07-01 00:53:34 --> Error connecting to the database: MySQL server has gone away
+ERROR - 2021-07-01 00:59:07 --> Error connecting to the database: MySQL server has gone away
+ERROR - 2021-07-01 01:04:19 --> Error connecting to the database: MySQL server has gone away
